@@ -47,11 +47,11 @@ def visualization():
     
     **Family History:** More people without family history of mental illness than those with it.
     ''')
-    st.image("assets\Screenshot 2025-08-13 225651.png")
-    st.image("assets\Screenshot 2025-08-13 225713.png")
-    st.image("assets\Screenshot 2025-08-13 225728.png")
-    st.image("assets\Screenshot 2025-08-13 225738.png")
-    st.image("assets\Screenshot 2025-08-13 225749.png")
+    st.image("assets/Screenshot 2025-08-13 225651.png")
+    st.image("assets/Screenshot 2025-08-13 225713.png")
+    st.image("assets/Screenshot 2025-08-13 225728.png")
+    st.image("assets/Screenshot 2025-08-13 225738.png")
+    st.image("assets/Screenshot 2025-08-13 225749.png")
 
 def supervised():
     st.title('Supervised Learning Tasks')
@@ -137,7 +137,7 @@ def unsupervised():
                 st.write("**Recommendations:**")
                 for rec in info['recommendations']:
                     st.write(f"• {rec}")
-    st.image("assets\Screenshot 2025-08-13 233345.png")
+    st.image("assets/Screenshot 2025-08-13 233345.png")
 
 def simple_prediction_logic(age, family_history, work_interfere, benefits, seek_help, mental_health_consequence):
     score = 0
