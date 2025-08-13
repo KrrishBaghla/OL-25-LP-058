@@ -37,7 +37,7 @@ To understand the key factors influencing mental health issues among employees i
 ---
 
 ## 📸 Screenshots  
-*(Add relevant screenshots here)*  
+![App Demo](assets/data.png)
 
 ---
 
